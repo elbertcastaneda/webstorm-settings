@@ -10,11 +10,13 @@
     <option name="isStyledDirectories" value="true" />
     <option name="isTabsShadow" value="false" />
     <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
     <option name="themedScrollbars" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
     <option name="upperCaseButtons" value="false" />
     <option name="useMaterialFont2" value="true" />
     <option name="tabOpacity" value="58" />
+    <option name="settingsSelectedTab" value="2" />
     <option name="tabsHeight" value="24" />
     <option name="accentColor" value="ff9800" />
     <option name="highlightColor" value="ff9800" />
