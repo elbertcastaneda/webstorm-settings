@@ -1,7 +1,9 @@
 <application>
   <component name="AbbreviationManager">
     <abbreviations>
-      <action id="ActivateTerminalToolWindow" />
+      <action id="ActivateTerminalToolWindow">
+        <abbreviation name="ºº" />
+      </action>
       <action id="ShowUmlDiagram" />
     </abbreviations>
   </component>
