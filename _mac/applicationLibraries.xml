@@ -1,0 +1,11 @@
+<application>
+  <component name="libraryTable">
+    <library name="Node 11.4.0" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="Node.js Core Modules" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+  </component>
+</application>
